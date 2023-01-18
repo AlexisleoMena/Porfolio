@@ -1,0 +1,13 @@
+export { default as Cpp } from "../assets/Images/Icons/icon_Cpp.png";
+export { default as CSS } from "../assets/Images/Icons/icon_CSS.png";
+export { default as ExpressJS } from "../assets/Images/Icons/icon_Express.png";
+export { default as Git } from "../assets/Images/Icons/icon_Git.png";
+export { default as GitHub } from "../assets/Images/Icons/icon_GitHub.png";
+export { default as HTML } from "../assets/Images/Icons/icon_HTML.png";
+export { default as JavaScript } from "../assets/Images/Icons/icon_JavaScript.png";
+export { default as NodeJS } from "../assets/Images/Icons/icon_NodeJS.png";
+export { default as NPM } from "../assets/Images/Icons/icon_NPM.png";
+export { default as PostgreSQL } from "../assets/Images/Icons/icon_Postgresql.png";
+export { default as React } from "../assets/Images/Icons/icon_React.png";
+export { default as Redux } from "../assets/Images/Icons/icon_Redux.png";
+export { default as Sequelize } from "../assets/Images/Icons/icon_Sequelize.png";
