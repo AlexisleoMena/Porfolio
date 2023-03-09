@@ -1,6 +1,8 @@
 .portfolio__container {
+    width: 100vw !important;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 22em);
+    justify-content: center;
     gap: 2.5rem;
 }
 
@@ -21,7 +23,7 @@
 .portfolio__item-image {
     border-radius: .5rem;
     overflow: hidden;
-    height: 30%;
+    height: 33%;
 }
 
 .portfolio__item h3 {
@@ -58,7 +60,6 @@
   
 @media screen and (max-width: 600px){
     .portfolio__container {
-        grid-template-columns: 1fr;
-        gap: 1rem;
+        grid-template-columns: 23em;
     }
 }

@@ -36,7 +36,7 @@ const Portfolio = () => {
                 className="btn btn-primary"
                 rel="noreferrer"
               >
-                Visitar sitio
+                Video presentación
               </a>
             </div>
           </article>
